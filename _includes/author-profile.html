@@ -37,6 +37,9 @@
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="fas fa-fw fa-map"></i> DBLP</a></li>
       {% endif %}
+      {% if author.semanticscholar %}
+        <li><a href="{{ author.semanticscholar }}"><i class="fas fa-fw fa-book"></i> Semantic Scholar</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
