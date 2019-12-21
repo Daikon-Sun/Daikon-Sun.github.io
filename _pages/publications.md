@@ -8,8 +8,8 @@ author_profile: true
 \* indicates equal contribution.
 
 - __Fan-Keng Sun\*__, Cheng-Hao Ho\*, Hung-yi Lee,
-"LAMAL: LAnguage Modeling Is All You Need for Lifelong Language Learning",
-_under submission_
+"LAMOL: LAnguage MOdeling for Lifelong Language Learning",
+in _International Conference on Learning Representations (ICLR-20)_
 
 - Shun-Yao Shih\*, __Fan-Keng Sun\*__, Hung-yi Lee,
 "Temporal Pattern Attention for Multivariate Time Series Forecasting",
