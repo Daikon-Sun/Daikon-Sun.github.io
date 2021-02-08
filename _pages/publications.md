@@ -17,6 +17,8 @@ _arXiv preprint, arXiv:2003.01184_, 2020. (under review)
 
 ## Conference
 
+\* indicates equal contribution.
+
 - __Fan-Keng Sun\*__, Cheng-Hao Ho\*, Hung-yi Lee.
 LAMOL: LAnguage MOdeling for Lifelong Language Learning.
 In _International Conference on Learning Representations (ICLR)_, 2020.
@@ -37,10 +39,10 @@ In _Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_
 
 \* indicates equal contribution.
 
-- Shun-Yao Shih\*, __Fan-Keng Sun\*__, Hung-yi Lee.
-Temporal Pattern Attention for Multivariate Time Series Forecasting.
-Journal track of the _European Conference on Machine Learning & Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)_, 2019.
-
 - Chen-Hao Hsu, Shao-Chun Hung, Hao Chen, __Fan-Keng Sun__, Yao-Wen Chang.
 A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing.
 _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_, 2020.
+
+- Shun-Yao Shih\*, __Fan-Keng Sun\*__, Hung-yi Lee.
+Temporal Pattern Attention for Multivariate Time Series Forecasting.
+Journal track of the _European Conference on Machine Learning & Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)_, 2019.
