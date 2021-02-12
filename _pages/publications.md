@@ -11,10 +11,6 @@ author_profile: true
 Adjusting for Autocorrelated Errors in Neural Networks for Time Series Regression and Forecasting.
 _arXiv preprint arXiv:2101.12578_, 2021. (under review)
 
-- Kyongmin Yeo, Dylan E. C. Grullon, __Fan-Keng Sun__, Duane S. Boning, Jayant R. Kalagnanam.
-Variational Inference Formulation for a Model-free Simulation of a Dynamical System with Unknown Parameters by a Recurrent Neural Network.
-_arXiv preprint, arXiv:2003.01184_, 2020. (under review)
-
 ## Conference
 
 \* indicates equal contribution.
@@ -38,6 +34,10 @@ In _Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_
 ## Journal
 
 \* indicates equal contribution.
+
+- Kyongmin Yeo, Dylan E. C. Grullon, __Fan-Keng Sun__, Duane S. Boning, Jayant R. Kalagnanam.
+Variational Inference Formulation for a Model-free Simulation of a Dynamical System with Unknown Parameters by a Recurrent Neural Network.
+_SIAM Journal on Scientific Computing (SISC)_, 2021.
 
 - Chen-Hao Hsu, Shao-Chun Hung, Hao Chen, __Fan-Keng Sun__, Yao-Wen Chang.
 A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing.
