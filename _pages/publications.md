@@ -12,7 +12,7 @@ author_profile: true
 \* indicates equal contribution.
 
 - __Fan-Keng Sun__, Christopher I. Lang, Duane S. Boning.
-Adjusting for Autocorrelated Errors in Neural Networks for Time Series
+Adjusting for Autocorrelated Errors in Neural Networks for Time Series.
 In _Neural Information Processing Systems (NeurIPS)_, 2021.
 
 - __Fan-Keng Sun\*__, Cheng-Hao Ho\*, Hung-yi Lee.
