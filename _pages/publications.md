@@ -7,13 +7,13 @@ author_profile: true
 
 ## Preprint
 
-- __Fan-Keng Sun__, Christopher I. Lang, Duane S. Boning.
-Adjusting for Autocorrelated Errors in Neural Networks for Time Series Regression and Forecasting.
-_arXiv preprint arXiv:2101.12578_, 2021. (under review)
-
 ## Conference
 
 \* indicates equal contribution.
+
+- __Fan-Keng Sun__, Christopher I. Lang, Duane S. Boning.
+Adjusting for Autocorrelated Errors in Neural Networks for Time Series
+In _Neural Information Processing Systems (NeurIPS)_, 2021.
 
 - __Fan-Keng Sun\*__, Cheng-Hao Ho\*, Hung-yi Lee.
 LAMOL: LAnguage MOdeling for Lifelong Language Learning.
