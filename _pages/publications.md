@@ -7,14 +7,14 @@ author_profile: true
 
 ## Preprint
 
-- __Fan-Keng Sun__, Duane S Boning.
+- __Fan-Keng Sun__, Duane S. Boning.
 FreDo: Frequency Domain-based Long-Term Time Series Forecasting.
 
 ## Conference
 
 \* indicates equal contribution.
 
-- Zhengqi Gao, __Fan-Keng Sun__, Mingran Yang, Sucheng Ren, Zikai Xiong, Marc Engeler, Antonio Burazer, Linda Wildling, Luca Daniel, Duane S Boning.
+- Zhengqi Gao, __Fan-Keng Sun__, Mingran Yang, Sucheng Ren, Zikai Xiong, Marc Engeler, Antonio Burazer, Linda Wildling, Luca Daniel, Duane S. Boning.
 Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion.
 In _European Conference on Computer Vision (ECCV)_, 2021.
 
@@ -42,11 +42,11 @@ In _Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)_
 
 \* indicates equal contribution.
 
-- Christopher I Lang, __Fan-Keng Sun__, Bruce Lawler, Jack Dillon, Ash Al Dujaili, John Ruth, Peter Cardillo, Perry Alfred, Alan Bowers, Adrian McKiernan, Duane S Boning.
+- Christopher I Lang, __Fan-Keng Sun__, Bruce Lawler, Jack Dillon, Ash Al Dujaili, John Ruth, Peter Cardillo, Perry Alfred, Alan Bowers, Adrian McKiernan, Duane S. Boning.
 One Class Process Anomaly Detection Using Kernel Density Estimation Methods.
 _IEEE Transactions on Semiconductor Manufacturing_, 2022.
 
-- Christopher I Lang, __Fan-Keng Sun__, Ramana Veerasingam, John Yamartino, Duane S Boning.
+- Christopher I Lang, __Fan-Keng Sun__, Ramana Veerasingam, John Yamartino, Duane S. Boning.
 Understanding and Improving Virtual Metrology Systems Using Bayesian Methods.
 _IEEE Transactions on Semiconductor Manufacturing_, 2022.
 
