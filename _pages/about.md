@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As an avid entrepreneur who bridges academic theory and real-world practice, my experience includes attending structured MBA courses at MIT/Harvard, co-founding several startups, and securing spots in top accelerator programs.
+As an avid entrepreneur who bridges academic theory and real-world practice, my experience includes co-founding several startups, securing spots in top accelerator programs, and attending structured MBA courses at MIT/Harvard.
 
 ## Graduate
 I am a Ph.D. student at [EECS, MIT](https://www.eecs.mit.edu/), supervised by [Prof. Duane Boning](https://www-mtl.mit.edu/wpmu/researchgroupsboning/boning/).
@@ -24,3 +24,4 @@ I also worked with [Prof. Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) on e
 ## Fun facts
 I love to explore the world.
 That's why I participated in the International Geography Olympiad (iGeo) and represented Taiwan to win a Silver medal.
+(Bonus fun fact: that's how I met my wife!)
